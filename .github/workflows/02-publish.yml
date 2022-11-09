@@ -6,7 +6,7 @@ on:
 name: 02-publish
 
 jobs:
-  write-message:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: print-message
