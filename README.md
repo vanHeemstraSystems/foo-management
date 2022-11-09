@@ -1,3 +1,5 @@
+[![02-publish](https://github.com/vanHeemstraSystems/foo-management/actions/workflows/02-publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/foo-management/actions/workflows/02-publish.yml)
+
 foo-management
 # Foo Management
 
