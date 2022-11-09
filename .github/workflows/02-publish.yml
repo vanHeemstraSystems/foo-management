@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
 
-name: 01-publish
+name: 02-publish
 
 jobs:
   write-message:
