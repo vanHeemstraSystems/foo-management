@@ -13,4 +13,4 @@ This is related to the template for the microservice frontend at https://github.
 
 Based on "Awesome Quarto" at https://github.com/mcanouil/awesome-quarto
 
-Based on "Quarto Web" at https://github.com/quarto-dev/quarto-web
+Based on "Quarto Web" at https://github.com/quarto-dev/quarto-web and https://quarto.org/
