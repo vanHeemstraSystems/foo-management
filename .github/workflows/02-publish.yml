@@ -8,6 +8,8 @@ name: 02-publish
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: print-message
         run: echo "Publish!"
